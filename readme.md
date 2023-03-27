@@ -1,3 +1,3 @@
-NEO COLD - кондиционеры
-сейчас без адаптива, только верстка, 
-простой одностраничник
+Site - https://us3rl0st.github.io/neocold
+
+no adaptive
